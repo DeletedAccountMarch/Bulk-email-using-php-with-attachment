@@ -19,10 +19,15 @@ now uncomment the openssl extension from php.ini
 ![image](https://user-images.githubusercontent.com/82378187/163569228-ce27ac47-4385-4357-91bc-5f38b4cb2355.png)
 
 
-Once its done, upload index.php file on your root folder and it will start sending email to the array list of emails.
+Once its done, upload index.php file on your root folder and open the index.php file on your browser and it will start sending email to the array list of emails.
 
 ![image](https://user-images.githubusercontent.com/82378187/163569338-9564300b-0b40-4837-83ec-ba7416d1a03b.png)
 
-# Email Gets Sent Like this -
+# Once email is successfuly sent, it shows success message like this
+![image](https://user-images.githubusercontent.com/82378187/163570235-aa0f9314-0336-480f-8f61-4e6eb6c46961.png)
+
+
+# Recepients will receive email like this -
 
 ![image](https://user-images.githubusercontent.com/82378187/163569861-236ef137-77b6-4ee1-9300-670851b5db7d.png)
+
